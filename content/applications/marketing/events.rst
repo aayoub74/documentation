@@ -202,3 +202,14 @@ event-creation process.
    events/sell_tickets
    events/track_manage_talks
    events/event_templates
+<<<<<<< saas-17.2
+||||||| 16537bb9c51fbb0e7bfffac6deeebd7653005261
+   events/event_booths
+   events/event_tracks
+   events/registration_desk
+=======
+   events/event_booths
+   events/event_tracks
+   events/registration_desk
+   events/revenues_report
+>>>>>>> 4ba4f785f0242d0bfb12e82635b287d93c773349
