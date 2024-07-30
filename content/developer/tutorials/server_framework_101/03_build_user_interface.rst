@@ -704,4 +704,8 @@ Let's enhance the search capabilities.
 
 ----
 
-.. todo: add incentive for chapter 4
+We now have a shiny UI to manage real estate properties, but our information model is still quite
+basic. We have a limited set of property types and a few building specifications, but that's not
+enough for a good real estate application. and that's it. In the next
+chapter, we'll :doc:`connect properties to new models <04_relational_fields>` to transform our basic
+real estate app into a feature-rich tool.
